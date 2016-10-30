@@ -68,7 +68,7 @@ html, body {
   font-size: 48px;
   line-height: 1.2em; }
   .title_2 strong {
-    color: #111; }
+    color: #da491c; }
 
 .title_3 {
   font-size: 24px;
@@ -80,7 +80,7 @@ html, body {
   margin: 55px 0 30px;
   text-align: center;
   text-transform: uppercase;
-  color: #111;
+  color: #da491c;
   font-size: 36px; }
   .cent strong {
     font-weight: normal;
@@ -166,7 +166,7 @@ html, body {
       position: relative;
       padding: 2px 8px;
       border-radius: 4px;
-      background: #111;
+      background: #da491c;
       color: #fff;
       -webkit-transition-property: all;
       -moz-transition-property: all;
@@ -198,7 +198,7 @@ html, body {
   margin: 55px 0 30px;
   text-align: center;
   text-transform: uppercase;
-  color: #111;
+  color: #da491c;
   font-size: 36px;
   font-weight: normal;
   display: inline-block;
