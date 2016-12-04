@@ -598,7 +598,9 @@ html, body {
 .node-galeria .field-name-field-imagenes .field-item {
   width: 25%;
   display: inline-block;
-  padding: 10px; }
+  padding: 10px;
+  height: 185px;
+  overflow: hidden; }
   .node-galeria .field-name-field-imagenes .field-item img {
     border-radius: 5px;
     border: 1px solid #ccc; }
